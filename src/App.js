@@ -4,7 +4,6 @@ import "./css/bootstrap.css";
 import "./css/bootstrap-reboot.min.css";
 import "./css/bootstrap-reboot.css";
 import "./css/bootstrap-grid.css";
-// import Counter from './Counter.js'
 import store from './store/';
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';

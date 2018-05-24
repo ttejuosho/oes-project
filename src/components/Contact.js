@@ -7,7 +7,7 @@ class Contact extends Component {
     render(){
         return(
             <div id="contact">
-                <form className="needs-validation" id="contact-form" method="POST" role="" noValidate>
+                <form className="needs-validation" id="contact-form" method="POST" novalidate>
                     <div className="messages"></div>
                     <div className="controls">
                         <div id="contact">
