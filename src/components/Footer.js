@@ -12,7 +12,7 @@ class Footer extends Component{
            
         <div className="foot">
             <a href="" target="_blank" rel="noopener noreferrer"><img className="social" src={igLogo} alt="IG Logo" /></a>
-            <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"><img className="social" src={fbLogo} alt="Facebook Logo"/></a>
+            <a href="https://www.facebook.com/FV137/" target="_blank" rel="noopener noreferrer"><img className="social" src={fbLogo} alt="Facebook Logo"/></a>
         </div>
            
       )
