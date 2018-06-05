@@ -16,7 +16,7 @@ class Contact extends Component {
                                 <h4 className="white">MESSAGE US</h4>
                                 <hr className="white"/>
                                 <img id="mail" src={mail} alt="MailPic"/>
-                                <p>oes137@easternstar.com</p>
+                                <p>foxvalley137@gmail.com</p>
                             </div>
                             
                             <div className="d-md-flex flex-row flex-wrap justify-content-center">

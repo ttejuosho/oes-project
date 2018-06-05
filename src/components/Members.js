@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ashanti from '../images/Ashanti.jpg';
+import avatarPlaceholder from '../images/avatar-placeholder.png';
 import '../App.css';
 // import '../css/bootstrap.min.css';
 // Create the Main component
@@ -18,29 +19,13 @@ class Members extends Component {
             <div className="d-flex flex-row flex-wrap justify-content-center">
                 <div className="p-2">
                     <img className="profile" src={ashanti} alt="memberPic"/>
-                    <p>Ashanti</p>
+                    <p>Sis Ashanti Tejuosho</p>
+                    <p>Worthy Matron</p>
                 </div>
                 <div className="p-2">
-                    <img className="profile" src={ashanti} alt="memberPic"/>
-                    <p>Ashanti</p>
-                </div>
-                <div className="p-2">
-                    <img className="profile" src={ashanti} alt="memberPic"/>
-                    <p>Ashanti</p>
-                </div>
-            </div>
-            <div className="d-flex flex-row flex-wrap justify-content-center">
-                <div className="p-2">
-                    <img className="profile" src={ashanti} alt="memberPic"/>
-                    <p>Ashanti</p>
-                </div>
-                <div className="p-2">
-                    <img className="profile" src={ashanti} alt="memberPic"/>
-                    <p>Ashanti</p>
-                </div>
-                <div className="p-2">
-                    <img className="profile" src={ashanti} alt="memberPic"/>
-                    <p>Ashanti</p>
+                    <img className="profile" src={avatarPlaceholder} alt="memberPic"/>
+                    <p>Bro Ganges Bell</p>
+                    <p>Worthy Patron</p>
                 </div>
             </div>
         </div>
